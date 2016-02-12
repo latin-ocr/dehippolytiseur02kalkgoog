@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehippolytiseur02kalkgoog_0005.png"; bbox 0 0 3157 5028; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1457 563 1609 648">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1457 563 1609 648">
+     <span class='ocr_line' id='line_1_1' title="bbox 1457 563 1609 648; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1457 563 1609 648; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 420 893 2651 1160">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 420 893 2651 1160">
+     <span class='ocr_line' id='line_1_2' title="bbox 420 893 2651 1160; baseline 0.002 -8"><span class='ocrx_word' id='word_1_2' title='bbox 420 989 1489 1157; x_wconf 75' lang='lat' dir='ltr'>HIPPOLYTIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1628 893 2651 1160; x_wconf 74' lang='lat' dir='ltr'><strong>EVRIPIDEIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 818 1517 2537 1644">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 818 1517 2537 1644">
+     <span class='ocr_line' id='line_1_3' title="bbox 818 1517 2537 1644; baseline 0.004 -26"><span class='ocrx_word' id='word_1_4' title='bbox 818 1517 1707 1644; x_wconf 76' lang='lat' dir='ltr'><strong>QVAESTIONES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1794 1521 1881 1622; x_wconf 93' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_6' title='bbox 1888 1519 2251 1624; x_wconf 82' lang='lat' dir='ltr'><strong>OVAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2531 1637 2537 1641; x_wconf 51' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1021 2554 2040 2626">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1021 2554 2040 2626">
+     <span class='ocr_line' id='line_1_4' title="bbox 1021 2554 2040 2626; baseline 0.002 -4"><span class='ocrx_word' id='word_1_8' title='bbox 1021 2554 1484 2626; x_wconf 68' lang='lat' dir='ltr'><strong>Avevs&#39;rvs</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1537 2556 2040 2624; x_wconf 72' lang='lat' dir='ltr'><strong>KALKMANN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1168 3286 1895 3676">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1168 3286 1895 3676">
+     <span class='ocr_line' id='line_1_5' title="bbox 1168 3286 1895 3676; baseline 0 1352"><span class='ocrx_word' id='word_1_10' title='bbox 1168 3286 1895 3676; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1083 4066 1963 4294">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1083 4066 1963 4294">
+     <span class='ocr_line' id='line_1_6' title="bbox 1349 4066 1705 4132; baseline 0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 1349 4066 1705 4132; x_wconf 81' lang='lat' dir='ltr'>BONNAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1083 4225 1963 4294; baseline 0.006 -5"><span class='ocrx_word' id='word_1_12' title='bbox 1083 4225 1339 4289; x_wconf 89' lang='lat' dir='ltr'><strong>APVD</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1399 4227 1469 4291; x_wconf 79' lang='lat' dir='ltr'><strong>E.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1530 4226 1963 4294; x_wconf 81' lang='lat' dir='ltr'><strong>STRAVSS</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
